@@ -1,0 +1,27 @@
+.countererContainer {
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .app-title {
+    margin: auto;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  
+  h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    margin: 0.5rem auto;
+  }
+  
