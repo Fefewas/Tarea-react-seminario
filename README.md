@@ -1,5 +1,6 @@
 # EQUIPO DE TRABAJO
 - Frederick Maussa
+- Jarid Osorio
 
 ****
 # Getting Started with Create React App
